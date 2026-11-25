@@ -22,7 +22,7 @@ The scripts are organised to document the analytical workflow and support reprod
 
 The data used in this study are archived on Figshare and are available at:
 
-[**[GHS_winter_activity]**](https://doi.org/10.6084/m9.figshare.35093839)
+[**GHS_winter_activity**](https://doi.org/10.6084/m9.figshare.35093839)
 
 The archived dataset provides the data required to reproduce the analyses presented in the manuscript.
 
