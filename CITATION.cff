@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Allan
+    given-names: Katie
+title: "GHS_winter_activity: Code for the chapter, Too cold to wake up? Uncovering the winter activity of the greater horseshoe bat, Rhinolophus ferrumequinum, using and Automated Radio Telemetry System (ARTS)"
+abstract: "Code used to process and analyse data on winter activity and emergence in greater horseshoe bats (Rhinolophus ferrumequinum)."
+version: "1.0.0"
+date-released: "2026-11-25"
+license: MIT
+repository-code: "https://github.com/kallan96/GHS_winter_activity"
+url: "https://github.com/kallan96/GHS_winter_activity"
+keywords:
+  - greater horseshoe bat
+  - Rhinolophus ferrumequinum
+  - winter activity
+  - bat ecology
+  - radio-tracking
+  - R
+  - Python
