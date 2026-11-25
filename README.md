@@ -4,7 +4,7 @@ This repository contains the code used for the analyses presented in my first ex
 
 The study used automated radio-tracking data to investigate patterns of winter activity and emergence, and their associations with intrinsic and environmental factors.
 
-[//]: # The manuscript is currently under submission to *Journal of Animal Ecology* (British Ecological Society).
+[//]: # (The manuscript is currently under submission to *Journal of Animal Ecology* (British Ecological Society).)
 
 ## Repository contents
 
@@ -60,13 +60,13 @@ Where required, scripts in the analyses folder should be run in the order indica
 - `11_analysis_no_hibernation_absolute_model.r`
 - `12_analysis_no_hibernation_emergence_time_model.R`
 
-[//]: # ## Manuscript
+[//]: # (## Manuscript)
 
-[//]: # **Title:** [Insert manuscript title]
+[//]: # (**Title:** [Insert manuscript title])
 
-[//]: # **Journal:** *Journal of Animal Ecology*
+[//]: # (**Journal:** *Journal of Animal Ecology*)
 
-[//]: # **Status:** Under submission
+[//]: # (**Status:** Under submission)
 
 ## Related research
 
